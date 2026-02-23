@@ -157,7 +157,7 @@ NumSoftModules <N>
 ---
 
 ### 7.4 流程圖（對應程式邏輯）
-![flowchart](./images/flowchart.jpg)
+![flowchart](./images/flowchart.png)
 
 
 ---
